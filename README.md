@@ -1,2 +1,1 @@
-![](https://github-readme-stats.vercel.app/api?username=winebarrel)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=winebarrel&layout=compact)
+![](https://github.com/user-attachments/assets/4415ab16-872b-4e1e-8e7b-2aeedc20b9d2)
