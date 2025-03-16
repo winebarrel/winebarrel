@@ -1,1 +1,3 @@
-[![](https://github.com/user-attachments/assets/863abcf0-1095-492b-9c35-ca1774a9a215)](https://profile-summary-for-github.com/user/winebarrel)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=winebarrel&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=winebarrel&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=winebarrel&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=winebarrel&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=winebarrel&theme=default&utcOffset=8)
