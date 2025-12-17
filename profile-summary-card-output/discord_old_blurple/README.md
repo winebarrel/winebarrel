@@ -45,10 +45,10 @@
 
 ---
 
-![](./4-productive-time.svg)
+![](./3-stats.svg)
 
 ```
-![](https://raw.githubusercontent.com/winebarrel/winebarrel/main/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)
+![](https://raw.githubusercontent.com/winebarrel/winebarrel/main/profile-summary-card-output/discord_old_blurple/3-stats.svg)
 ```
 
     
