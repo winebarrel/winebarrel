@@ -15,6 +15,16 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/winebarrel/winebarrel/main/profile-summary-card-output/graywhite/0-profile-details.svg)
+```
+
+    
+
+---
+
 ![](./1-repos-per-language.svg)
 
 ```
@@ -35,10 +45,10 @@
 
 ---
 
-![](./3-stats.svg)
+![](./4-productive-time.svg)
 
 ```
-![](https://raw.githubusercontent.com/winebarrel/winebarrel/main/profile-summary-card-output/graywhite/3-stats.svg)
+![](https://raw.githubusercontent.com/winebarrel/winebarrel/main/profile-summary-card-output/graywhite/4-productive-time.svg)
 ```
 
     
