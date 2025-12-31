@@ -42,13 +42,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/winebarrel/winebarrel/main/profile-summary-card-output/zenburn/4-productive-time.svg)
-```
-
-    
