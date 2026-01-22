@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/winebarrel/winebarrel/main/profile-summary-card-output/github_dark/3-stats.svg)
+```
+
+    

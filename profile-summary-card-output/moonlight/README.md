@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/winebarrel/winebarrel/main/profile-summary-card-output/moonlight/3-stats.svg)
+```
+
+    
