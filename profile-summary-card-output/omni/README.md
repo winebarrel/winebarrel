@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/winebarrel/winebarrel/main/profile-summary-card-output/omni/3-stats.svg)
-```
-
-    

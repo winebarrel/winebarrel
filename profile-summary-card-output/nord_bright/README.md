@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/winebarrel/winebarrel/main/profile-summary-card-output/nord_bright/3-stats.svg)
-```
-
-    
